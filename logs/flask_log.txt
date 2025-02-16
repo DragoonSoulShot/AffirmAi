@@ -1,0 +1,47 @@
+2025-02-16 10:43:34,330 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.12.183:5003
+2025-02-16 10:43:34,330 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 10:44:51,842 - INFO - New user registered: testuser
+2025-02-16 10:44:51,843 - INFO - 127.0.0.1 - - [16/Feb/2025 10:44:51] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2025-02-16 10:45:12,368 - INFO - 127.0.0.1 - - [16/Feb/2025 10:45:12] "POST /login HTTP/1.1" 200 -
+2025-02-16 10:45:48,898 - INFO - 127.0.0.1 - - [16/Feb/2025 10:45:48] "[31m[1mPOST /log_interaction HTTP/1.1[0m" 422 -
+2025-02-16 10:48:58,281 - INFO - 127.0.0.1 - - [16/Feb/2025 10:48:58] "POST /login HTTP/1.1" 200 -
+2025-02-16 10:49:59,744 - INFO - 127.0.0.1 - - [16/Feb/2025 10:49:59] "POST /login HTTP/1.1" 200 -
+2025-02-16 10:54:35,346 - INFO - Logged interaction: test input -> I'm still learning! What do you think?
+2025-02-16 10:54:35,346 - INFO - 127.0.0.1 - - [16/Feb/2025 10:54:35] "POST /log_interaction HTTP/1.1" 200 -
+2025-02-16 12:48:49,573 - INFO - [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-16 12:48:49,574 - INFO - [werkzeug] [33mPress CTRL+C to quit[0m
+2025-02-16 12:49:14,763 - INFO - [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-16 12:49:14,763 - INFO - [werkzeug] [33mPress CTRL+C to quit[0m
+2025-02-16 12:52:08,529 - INFO - [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-16 12:52:08,531 - INFO - [werkzeug] [33mPress CTRL+C to quit[0m
+2025-02-16 13:22:12,874 - INFO - [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.12.183:5003
+2025-02-16 13:22:12,874 - INFO - [werkzeug] [33mPress CTRL+C to quit[0m
+2025-02-16 13:25:35,783 - INFO - [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2025-02-16 13:25:35,783 - INFO - [werkzeug] [33mPress CTRL+C to quit[0m
+2025-02-16 13:27:57,241 - INFO - [werkzeug] 127.0.0.1 - - [16/Feb/2025 13:27:57] "GET / HTTP/1.1" 200 -
+2025-02-16 13:27:57,280 - INFO - [werkzeug] 127.0.0.1 - - [16/Feb/2025 13:27:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-16 13:28:19,490 - INFO - [werkzeug] 127.0.0.1 - - [16/Feb/2025 13:28:19] "GET / HTTP/1.1" 200 -
+2025-02-16 13:29:35,375 - INFO - [werkzeug] 127.0.0.1 - - [16/Feb/2025 13:29:35] "[33mGET /api/some-endpoint HTTP/1.1[0m" 404 -
+2025-02-16 13:29:53,270 - INFO - [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2025-02-16 13:29:53,270 - INFO - [werkzeug] [33mPress CTRL+C to quit[0m
+2025-02-16 14:11:34,088 - INFO - [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.12.183:5003
+2025-02-16 14:11:34,088 - INFO - [werkzeug] [33mPress CTRL+C to quit[0m
+2025-02-16 14:12:38,001 - INFO - [werkzeug] 127.0.0.1 - - [16/Feb/2025 14:12:38] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2025-02-16 14:14:02,841 - INFO - [werkzeug] 127.0.0.1 - - [16/Feb/2025 14:14:02] "POST /login HTTP/1.1" 200 -
+2025-02-16 14:14:23,147 - INFO - [werkzeug] 127.0.0.1 - - [16/Feb/2025 14:14:23] "[31m[1mPOST /log_interaction HTTP/1.1[0m" 422 -
+2025-02-16 14:14:53,748 - INFO - [werkzeug] 127.0.0.1 - - [16/Feb/2025 14:14:53] "POST /login HTTP/1.1" 200 -
+2025-02-16 14:15:13,460 - INFO - [werkzeug] 127.0.0.1 - - [16/Feb/2025 14:15:13] "POST /log_interaction HTTP/1.1" 200 -
